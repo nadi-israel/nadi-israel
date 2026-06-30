@@ -1,3 +1,5 @@
+
+
 # Hi there! 👋 I'm Nadi Israel oluwabukunmi
 
 ## Software Engineer | AI Engineer | Backend Developer
@@ -222,3 +224,43 @@ Python • LangChain • CrewAI • FastAPI • Docker
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadi-israel&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadi-israel&layout=compact&theme=tokyonight)
+
+
+## 💻 Tech Stack
+
+### Programming Languages
+- Python
+- Java
+- TypeScript
+- C++
+- SQL
+- Bash
+
+### Backend Development
+- FastAPI
+- Flask
+- REST APIs
+
+### Artificial Intelligence & Machine Learning
+- PyTorch
+- Transformers
+- LangChain
+- LlamaIndex
+- Hugging Face
+- Scikit-learn
+
+### DevOps & Cloud
+- Docker
+- Kubernetes
+- Git
+- GitHub Actions
+- AWS SageMaker
+- MLflow
+
+### Software Engineering
+- Algorithms
+- Data Structures
+- Debugging
+- Performance Optimization
+- Feature Development
+- Code Refactoring
