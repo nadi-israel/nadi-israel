@@ -217,3 +217,8 @@ Python • LangChain • CrewAI • FastAPI • Docker
 ---
 
 > *"Building scalable software, intelligent systems, and impactful AI solutions—one project at a time."*
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadi-israel&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadi-israel&layout=compact&theme=tokyonight)
